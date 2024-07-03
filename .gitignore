@@ -12,6 +12,10 @@
 # Built Visual Studio Code Extensions
 *.vsix
 
+
+
+*.py
+
 ### PYTHON ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
